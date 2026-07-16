@@ -12,7 +12,6 @@ import {
 @Injectable()
 export class TransformInterceptor<T> implements NestInterceptor<T, ApiResponseDto<T>> {
   intercept(context: ExecutionContext, next: CallHandler): Observable<ApiResponseDto<T>> {
-    const request = context.switchToHttp().getRequest();
     const response = context.switchToHttp().getResponse();
 
     return next.handle().pipe(
@@ -22,28 +21,26 @@ export class TransformInterceptor<T> implements NestInterceptor<T, ApiResponseDt
           return data;
         }
 
-        // Default success message based on HTTP method
+        const statusCode = response.statusCode;
+
         let message = 'Operation successful';
 
-        switch (request.method) {
-          case 'POST':
+        switch (statusCode) {
+          case HttpStatus.CREATED:
             message = 'Resource created successfully';
-            response.status(HttpStatus.CREATED);
             break;
-          case 'PUT':
-          case 'PATCH':
-            message = 'Resource updated successfully';
+
+          case HttpStatus.OK:
+            message = 'Operation successful';
             break;
-          case 'DELETE':
+
+          case HttpStatus.NO_CONTENT:
             message = 'Resource deleted successfully';
-            break;
-          case 'GET':
-            message = 'Data retrieved successfully';
             break;
         }
 
         return {
-          statusCode: response.statusCode || HttpStatus.OK,
+          statusCode,
           message,
           data,
         };

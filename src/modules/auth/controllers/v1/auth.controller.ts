@@ -5,6 +5,9 @@ import { AuthService } from '../../auth.service';
 import { LoginDto } from '../../core/dto/login.dto';
 import { RegisterDto } from '../../core/dto/register.dto';
 import { AuthResponseDto } from '../../core/dto/auth-response.dto';
+import { ForgotPasswordDto } from '../../core/dto/forgot-password.dto';
+import { ResetPasswordDto } from '../../core/dto/reset-password.dto';
+import { RefreshTokenDto } from '../../core/dto/refresh-token.dto';
 import { Public } from '@common/decorators/public.decorator';
 import { ApiSuccessResponse } from '@common/decorators/api-response.decorator';
 import { JwtAuthGuard } from '@common/guards/jwt-auth.guard';
@@ -37,7 +40,23 @@ export class AuthController {
   }
 
   @Public()
+  @Post('refresh-token')
+  @HttpCode(HttpStatus.OK)
+  @ApiOperation({ summary: 'Refresh accesss token' })
+  @ApiResponse({
+    status: 200,
+    description: 'Access token berhasil diperbarui',
+  })
+  async refreshToken(
+    @Body() refreshTokenDto: RefreshTokenDto,
+  ){
+    return this.authService.refreshToken(refreshTokenDto);
+  }
+
+
+  @Public()
   @Post('register')
+  @HttpCode(HttpStatus.OK)
   @ApiOperation({ summary: 'User registration' })
   @ApiSuccessResponse(AuthResponseDto)
   @ApiResponse({ status: 409, description: 'Email already exists' })
@@ -53,6 +72,28 @@ export class AuthController {
       maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
     });
     return authResponse;
+  }
+
+  @Public()
+  @Post('forgot-password')
+  @HttpCode(HttpStatus.OK)
+  @ApiOperation({ summary: 'Forgot password' })
+  @ApiResponse({ status: 200, description: 'Reset password email sent' })
+  async forgotPassword(
+    @Body() forgotPasswordDto: ForgotPasswordDto,
+  ) {
+    return this.authService.forgotPassword(forgotPasswordDto);
+  }
+
+  @Public()
+  @Post('reset-password')
+  @HttpCode(HttpStatus.OK)
+  @ApiOperation({ summary: 'Reset password' })
+  @ApiResponse({ status: 200, description: 'Password reset successful' })
+  async resetPassword(
+    @Body() resetPasswordDto: ResetPasswordDto,
+  ) {
+    return this.authService.resetPassword(resetPasswordDto);
   }
 
   @Post('logout')
