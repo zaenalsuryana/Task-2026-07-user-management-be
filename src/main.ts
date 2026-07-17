@@ -55,6 +55,14 @@ async function bootstrap() {
       .setTitle('project-2026-7-insite-be API')
       .setDescription('project-2026-7-insite-be Backend API Documentation')
       .setVersion('1.0')
+      .addBearerAuth(
+        {
+          type: 'http',
+          scheme: 'bearer',
+          bearerFormat: 'JWT',
+        },
+        'access-token',
+      )
       .addTag('Authentication', 'Authentication endpoints')
       .addTag('Users', 'User management endpoints')
       .addTag('Health', 'Health check endpoints')

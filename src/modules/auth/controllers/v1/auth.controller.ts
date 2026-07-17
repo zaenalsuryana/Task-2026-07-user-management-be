@@ -1,4 +1,4 @@
-import { Controller, Post, Body, HttpCode, HttpStatus, UseGuards, Res } from '@nestjs/common';
+import { Controller, Post, Get, Body, HttpCode, HttpStatus, UseGuards, Res } from '@nestjs/common';
 import { Response } from 'express';
 import { ApiTags, ApiOperation, ApiResponse } from '@nestjs/swagger';
 import { AuthService } from '../../auth.service';
@@ -8,10 +8,14 @@ import { AuthResponseDto } from '../../core/dto/auth-response.dto';
 import { ForgotPasswordDto } from '../../core/dto/forgot-password.dto';
 import { ResetPasswordDto } from '../../core/dto/reset-password.dto';
 import { RefreshTokenDto } from '../../core/dto/refresh-token.dto';
+import { JwtPayload } from'../../core/interfaces/jwt-payload.interface';
 import { Public } from '@common/decorators/public.decorator';
 import { ApiSuccessResponse } from '@common/decorators/api-response.decorator';
 import { JwtAuthGuard } from '@common/guards/jwt-auth.guard';
 import { PermissionsGuard } from '@common/guards/permissions.guard';
+import { GetUser } from '@common/decorators/get-user.decorator';
+import { ApiBearerAuth } from '@nestjs/swagger';
+
 
 @ApiTags('Authentication')
 @Controller({ path: 'auth', version: '1' })
@@ -95,6 +99,20 @@ export class AuthController {
   ) {
     return this.authService.resetPassword(resetPasswordDto);
   }
+
+  @ApiBearerAuth('access-token')
+  @Get('me')
+  @ApiOperation({ summary: 'Get current user profile' })
+  @ApiResponse({
+    status: 200,
+    description: 'Current user profile',
+  })
+  async getProfile(
+    @GetUser() user: JwtPayload,
+  ) {
+    return this.authService.getProfile(user.userId);
+  }
+
 
   @Post('logout')
   @HttpCode(HttpStatus.OK)

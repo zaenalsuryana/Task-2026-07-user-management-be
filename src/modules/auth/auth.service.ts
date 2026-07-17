@@ -114,12 +114,12 @@ export class AuthService {
 
 
   async refreshToken(refreshTokenDto: RefreshTokenDto) {
-    const { refreshToken } = refreshTokenDto;
+    const { refresh_token } = refreshTokenDto;
 
     try {
       const payload = this.jwtService.verify<{
         userId: number;
-      }>(refreshToken);
+      }>(refresh_token);
 
       const user = await this.prisma.user.findUnique({
         where: {
@@ -138,7 +138,7 @@ export class AuthService {
         },
       });
 
-      if (!user || user.refresh_token !== refreshToken) {
+      if (!user || user.refresh_token !== refresh_token) {
         throw new UnauthorizedException('Refresh token tidak valid');
       }
 
@@ -166,6 +166,45 @@ export class AuthService {
     } catch {
       throw new UnauthorizedException('Refresh token tidak valid');
     }
+  }
+
+  async getProfile(userId: number) {
+    const user = await this.prisma.user.findUnique({
+      where: {
+        id: userId,
+      },
+      include: {
+        position: {
+          include: {
+            position_permissions: {
+              include: {
+                permission: true,
+              },
+            },
+          },
+        },
+      },
+    });
+
+    if (!user) {
+      throw new UnauthorizedException('User tidak ditemukan');
+    }
+
+    const permissions = user.position.position_permissions.map(
+      (pp) => pp.permission.name,
+    );
+
+    return {
+      id: user.id,
+      email: user.email,
+      first_name: user.first_name,
+      last_name: user.last_name,
+      position: {
+        id: user.position.id,
+        name: user.position.name,
+      },
+      permissions,
+    };
   }
 
   async register(registerDto: RegisterDto): Promise<AuthResponseDto> {
