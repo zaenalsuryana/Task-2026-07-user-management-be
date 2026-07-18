@@ -46,7 +46,7 @@ export class AuthController {
   @Public()
   @Post('refresh-token')
   @HttpCode(HttpStatus.OK)
-  @ApiOperation({ summary: 'Refresh accesss token' })
+  @ApiOperation({ summary: 'Refresh access token' })
   @ApiResponse({
     status: 200,
     description: 'Access token berhasil diperbarui',
@@ -114,6 +114,7 @@ export class AuthController {
   }
 
 
+  @ApiBearerAuth('access-token')
   @Post('logout')
   @HttpCode(HttpStatus.OK)
   @ApiOperation({ summary: 'User logout' })
