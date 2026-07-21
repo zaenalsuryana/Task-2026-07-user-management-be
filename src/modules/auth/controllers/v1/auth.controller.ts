@@ -8,6 +8,7 @@ import { AuthResponseDto } from '../../core/dto/auth-response.dto';
 import { ForgotPasswordDto } from '../../core/dto/forgot-password.dto';
 import { ResetPasswordDto } from '../../core/dto/reset-password.dto';
 import { RefreshTokenDto } from '../../core/dto/refresh-token.dto';
+import { ChangePasswordDto } from '../../core/dto/change-password.dto';
 import { JwtPayload } from'../../core/interfaces/jwt-payload.interface';
 import { Public } from '@common/decorators/public.decorator';
 import { ApiSuccessResponse } from '@common/decorators/api-response.decorator';
@@ -111,6 +112,24 @@ export class AuthController {
     @GetUser() user: JwtPayload,
   ) {
     return this.authService.getProfile(user.userId);
+  }
+
+  @ApiBearerAuth('access-token')
+  @Post('change-password')
+  @HttpCode(HttpStatus.OK)
+  @ApiOperation({ summary: 'Change password'})
+  @ApiResponse({
+    status: 200,
+    description: 'Password berhasil diubah',
+  })
+  async changePassword(
+    @GetUser() user: JwtPayload,
+    @Body() changePasswordDto: ChangePasswordDto,
+  ) {
+    return this.authService.changePassword(
+      user.userId,
+      changePasswordDto,
+    );
   }
 
 

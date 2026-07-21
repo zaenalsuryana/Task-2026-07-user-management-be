@@ -16,6 +16,7 @@ import { ForgotPasswordDto } from './core/dto/forgot-password.dto';
 import { ResetPasswordDto } from './core/dto/reset-password.dto';
 import { MailService } from '../mail/mail.service';
 import { RefreshTokenDto } from './core/dto/refresh-token.dto';
+import { ChangePasswordDto } from './core/dto/change-password.dto';
 
 @Injectable()
 export class AuthService {
@@ -204,6 +205,46 @@ export class AuthService {
         name: user.position.name,
       },
       permissions,
+    };
+  }
+
+  async changePassword(
+    userId: number,
+    changePasswordDto: ChangePasswordDto,
+  ) {
+    const { old_password, new_password } = changePasswordDto;
+    const user = await this.prisma.user.findUnique({
+      where: {
+        id: userId,
+      },
+    });
+
+    if (!user) {
+      throw new UnauthorizedException('User tidak ditemukan');
+    }
+
+    const isPasswordValid = await PasswordUtil.compare(
+      old_password,
+      user.password,
+    );
+
+    if (!isPasswordValid) {
+      throw new UnauthorizedException('Password lama tidak sesuai');
+    }
+
+    const hashedPassword = await PasswordUtil.hash(new_password);
+
+    await this.prisma.user.update({
+      where: {
+        id: userId,
+      },
+      data: {
+        password: hashedPassword,
+      },
+    });
+
+    return {
+      message: 'Password berhasil diubah',
     };
   }
 
