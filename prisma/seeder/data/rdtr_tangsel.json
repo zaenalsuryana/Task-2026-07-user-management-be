@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "KODZON": "R-2",
+        "NAMZON": "Perumahan Kepadatan Sedang",
+        "color": "#FFFFA8",
+        "KDB": 60,
+        "KLB": 1.2,
+        "KDH": 20,
+        "GSB": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.615,
+              -6.29
+            ],
+            [
+              106.62,
+              -6.29
+            ],
+            [
+              106.62,
+              -6.295
+            ],
+            [
+              106.615,
+              -6.295
+            ],
+            [
+              106.615,
+              -6.29
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "KODZON": "RTH-1",
+        "NAMZON": "Ruang Terbuka Hijau",
+        "color": "#55FF55",
+        "KDB": 0,
+        "KLB": 0,
+        "KDH": 100,
+        "GSB": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.62,
+              -6.29
+            ],
+            [
+              106.625,
+              -6.29
+            ],
+            [
+              106.625,
+              -6.295
+            ],
+            [
+              106.62,
+              -6.295
+            ],
+            [
+              106.62,
+              -6.29
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "KODZON": "K-1",
+        "NAMZON": "Kawasan Komersial",
+        "color": "#FF5555",
+        "KDB": 70,
+        "KLB": 3,
+        "KDH": 10,
+        "GSB": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.615,
+              -6.295
+            ],
+            [
+              106.625,
+              -6.295
+            ],
+            [
+              106.625,
+              -6.3
+            ],
+            [
+              106.615,
+              -6.3
+            ],
+            [
+              106.615,
+              -6.295
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

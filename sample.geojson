@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.85568694444444, -6.565703888888889]
+      },
+      "properties": {
+        "property_name": "GeoJSON Test Apartment",
+        "url": "https://example.com/geojson",
+        "status": "Lokasi Aktif",
+        "developer": "PT GEOJSON BUILDER",
+        "address": "JAWA BARAT, KAB BOGOR",
+        "website": "www.geojsonbuilder.co.id",
+        "latitude": "-6.565703888888889",
+        "longitude": "106.85568694444444",
+        "number_of_tower": 2,
+        "number_of_floor": 10,
+        "number_of_commercial_unit": 20,
+        "number_of_subsidized_unit": 0,
+        "sold_commercial_unit": 5,
+        "sold_subsidized_unit": 0,
+        "tower_name": [
+          {
+            "tower_name": "Tower Geo",
+            "detail_lantai": [
+              {
+                "floor_name": "Lantai 1",
+                "unit_detail": [
+                  {
+                    "unit_name": "G-1",
+                    "unit_type": "Studio",
+                    "price": "500000000",
+                    "floor_area": "25.5",
+                    "number_of_bedroom": 1,
+                    "number_of_bathroom": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

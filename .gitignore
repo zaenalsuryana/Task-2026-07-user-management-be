@@ -1,0 +1,34 @@
+node_modules
+
+# Enviroment
+.env
+.env.local
+
+# Build
+dist
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+#Agents
+.agents
+.cursor
+
+# Documentation
+DOCS.md
+DOCS_COMPLIANCE.md
+# Ignore Large Spatial Seeder Data
+prisma/seeder/data/data_semua_zona_bandung.json
+prisma/seeder/data/RDTR_13A3_KOTA_BUKIT_TINGGI_LENGKAP.geojson
+prisma/seeder/data/RDTR_33D9_KECAMATAN_KALIWUNGU_LENGKAP.geojson
+prisma/seeder/data/RDTR_33E1_KECAMATAN_BRANGSONG_LENGKAP.geojson
+prisma/seeder/data/RDTR_35I4_KOTA_MALANG_LENGKAP.geojson
+prisma/seeder/data/Bandung.geojson
+prisma/seeder/data/Semarang.geojson
+prisma/seeder/data/Sumatera_Barat.geojson
+prisma/seeder/data/Surabaya.geojson

@@ -1,0 +1,238 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider   = "postgresql"
+  extensions = [postgis]
+}
+
+// ============================================
+// RBAC Schema
+// ============================================
+
+model User {
+  id            Int       @id @default(autoincrement())
+  email         String    @unique
+  password      String?
+  refresh_token String?
+  is_active     Boolean   @default(true)
+  created_at    DateTime  @default(now())
+  updated_at    DateTime  @updatedAt
+  deleted_at    DateTime?
+  socialMedias  SocialMedia[]
+
+  // Relations
+  position_id Int
+  position    Position     @relation(fields: [position_id], references: [id])
+  analyses    Analysis[]
+  compliances Compliance[]
+  profile     UserProfile?
+  
+  // Relasi baru untuk OAuth
+  userOAuths  UserOAuth[]
+
+  @@map("users")
+}
+
+model UserProfile {
+  id           Int       @id @default(autoincrement())
+  user_id      Int       @unique
+  first_name   String
+  last_name    String?   // Opsional barangkali nama dari Google hanya satu kata
+  phone_number String?
+  address      String?
+  birth_date   DateTime?
+  created_at   DateTime  @default(now())
+  updated_at   DateTime  @updatedAt
+
+  //Relations
+  user         User      @relation(fields: [user_id], references: [id], onDelete: Cascade)
+  
+  @@map("user_profiles")
+}
+
+model Position {
+  id          Int      @id @default(autoincrement())
+  name        String   @unique
+  description String?
+  is_active   Boolean  @default(true)
+  created_at  DateTime @default(now())
+  updated_at  DateTime @updatedAt
+  deleted_at  DateTime?
+
+  // Relations
+  users                User[]
+  position_permissions PositionPermission[]
+
+  @@map("positions")
+}
+
+model Permission {
+  id          Int      @id @default(autoincrement()) // 👈 Ubah uuid() jadi autoincrement()
+  name        String   @unique // e.g., 'location:add'
+  description String?
+  resource    String   // e.g., 'USER', 'TRANSACTION', 'REPORT'
+  action      String   // e.g., 'VIEW', 'ADD', 'UPDATE', 'DELETE'
+  created_at  DateTime @default(now())
+  updated_at  DateTime @updatedAt
+  deleted_at  DateTime?
+
+  // Relations
+  position_permissions PositionPermission[]
+
+  @@map("permissions")
+}
+
+model PositionPermission {
+  id            Int      @id @default(autoincrement())
+  position_id   Int      
+  permission_id Int
+  created_at    DateTime @default(now())
+
+  // Relations
+  position   Position   @relation(fields: [position_id], references: [id], onDelete: Cascade)
+  permission Permission @relation(fields: [permission_id], references: [id], onDelete: Cascade)
+
+  @@unique([position_id, permission_id])
+  @@map("position_permissions")
+}
+
+// ============================================
+// Layer & Feature Schema (Generic Spatial Data)
+// ============================================
+
+model Layer {
+  id          String   @id @default(uuid())
+  name        String
+  category    String?
+  description String?
+  created_at  DateTime @default(now())
+  updated_at  DateTime @updatedAt
+
+  features Feature[]
+  analyses Analysis[]
+
+  @@unique([name, category])
+  @@map("layers")
+}
+
+model Feature {
+  id       String                               @id @default(uuid())
+  layer_id String
+  name     String?
+  geom     Unsupported("geometry(Geometry, 4326)")?
+  properties Json
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  layer Layer @relation(fields: [layer_id], references: [id], onDelete: Cascade)
+
+  @@index([geom], type: Gist)
+  @@map("features")
+}
+
+model Analysis {
+  id                String   @id @default(uuid())
+  user_id           Int      // Disamakan dengan tipe data id User (Int)
+  layer_id          String
+  title             String?
+  latitude          Float
+  longitude         Float
+  radius_m          Int
+  total_competitors Int      @default(0)
+  competitors       Json?    @default("[]")
+  created_at        DateTime @default(now())
+  updated_at        DateTime @updatedAt
+
+  user  User  @relation(fields: [user_id], references: [id], onDelete: Cascade)
+  layer Layer @relation(fields: [layer_id], references: [id], onDelete: Cascade)
+
+  @@map("analyses")
+}
+
+model ComplianceUpload {
+  id             String                                 @id @default(uuid())
+  name           String?
+  geom           Unsupported("geometry(Geometry, 4326)")?
+  area_m2        Float
+  centroid_lat   Float
+  centroid_lng   Float
+  bounds_min_lat Float
+  bounds_max_lat Float
+  bounds_min_lng Float
+  bounds_max_lng Float
+  created_at     DateTime                               @default(now())
+
+  @@index([geom], type: Gist)
+  @@map("compliance_uploads")
+}
+
+model Compliance {
+  id           String                                 @id @default(uuid())
+  user_id      Int      // Disamakan dengan tipe data id User (Int)
+  name         String
+  intended_use String
+  verdict      String
+  area_m2      Float
+  centroid     Json
+  rdtr         Json
+  zones        Json
+  findings     Json
+  geom         Unsupported("geometry(Geometry, 4326)")?
+  created_at   DateTime                               @default(now())
+  updated_at   DateTime                               @updatedAt
+
+  user User @relation(fields: [user_id], references: [id], onDelete: Cascade)
+
+  @@index([geom], type: Gist)
+  @@map("compliances")
+}
+
+// ============================================
+// OAuth Schema
+// ============================================
+
+model UserOAuth {
+  id          Int      @id @default(autoincrement())
+  user_id     Int
+  provider    String   // e.g., 'google'
+  provider_id String   @unique // ID unik dari Google (sub)
+  created_at  DateTime @default(now())
+  updated_at  DateTime @updatedAt
+
+  // Relations
+  user        User     @relation(fields: [user_id], references: [id], onDelete: Cascade)
+
+  @@unique([provider, user_id])
+  @@map("user_oauths")
+}
+
+// Enum untuk pilihan platform sosial media
+enum PlatformType {
+  FACEBOOK
+  TWITTER
+  INSTAGRAM
+  LINKEDIN
+  GITHUB
+  YOUTUBE
+  WEBSITE
+  OTHER
+}
+
+// Model SocialMedia
+model SocialMedia {
+  id        Int          @id @default(autoincrement())
+  platform  PlatformType
+  url       String
+  
+  userId    Int          @map("user_id")
+  user      User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  
+  createdAt DateTime     @default(now()) @map("created_at")
+  updatedAt DateTime     @updatedAt @map("updated_at")
+
+  @@map("social_medias")
+}

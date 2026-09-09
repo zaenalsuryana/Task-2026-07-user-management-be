@@ -1,0 +1,3674 @@
+[
+    {
+        "property_name": "Saffron Noble Apartment",
+        "url": "https://sikumbang.tapera.go.id/lokasi-perumahan/CBI0520072025R001",
+        "status": "Lokasi Aktif",
+        "developer": "PT SENTUL CITY TBK.",
+        "address": "JAWA BARAT, KAB BOGOR, Babakan Madang, Citaringgul",
+        "website": "www.sentulcity.co.id",
+        "latitude": "-6.565703888888889",
+        "longitude": "106.85568694444444",
+        "number_of_tower": 1,
+        "number_of_floor": 60,
+        "number_of_commercial_unit": 60,
+        "number_of_subsidized_unit": 0,
+        "sold_commercial_unit": 27,
+        "sold_subsidized_unit": 0,
+        "tower_name": [
+            {
+                "tower_name": "Tower SAFFRON NOBLE",
+                "detail_lantai": [
+                    {
+                        "floor_name": "Lantai 10",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 11",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 12",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 15",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 16",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 17",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 18",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 19",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 20",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 21",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 23",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 25",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 26",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 27",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 28",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 29",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 30",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 31",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 32",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 33",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 35",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 5",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 6",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 7",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 8",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 9",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe SUITE A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 981.000.000",
+                                "floor_area": "36.1",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe SUITE B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 933.000.000",
+                                "floor_area": "34.5",
+                                "number_of_bedroom": 0,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR A (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.793.000.000",
+                                "floor_area": "63.8",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR B (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.324.000.000",
+                                "floor_area": "74.7",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR C (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 2.044.000.000",
+                                "floor_area": "66",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.621.000.000",
+                                "floor_area": "52.6",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "property_name": "OPUS PARK APARTMENT",
+        "url": "https://sikumbang.tapera.go.id/lokasi-perumahan/CBI0520072026R001",
+        "status": "Lokasi Aktif",
+        "developer": "PT IZUMI SENTUL REALTY",
+        "address": "JAWA BARAT, KAB BOGOR, Babakan Madang, Citaringgul",
+        "website": "https://opuspark.co.id/",
+        "latitude": "-6.565705833333333",
+        "longitude": "106.85691861111111",
+        "number_of_tower": 1,
+        "number_of_floor": 0,
+        "number_of_commercial_unit": 0,
+        "number_of_subsidized_unit": 0,
+        "sold_commercial_unit": 0,
+        "sold_subsidized_unit": 0,
+        "tower_name": [
+            {
+                "tower_name": "Tower PINNACLE",
+                "detail_lantai": [
+                    {
+                        "floor_name": "Lantai 05",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 06",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 07",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 08",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 09",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 10",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 11",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 12",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 15",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 16",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 17",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 18",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 19",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 20",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 21",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 23",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 25",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 26",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 27",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 28",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 29",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 30",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 31",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 32",
+                        "unit_detail": []
+                    },
+                    {
+                        "floor_name": "Lantai 33",
+                        "unit_detail": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "property_name": "Royal Sentul Park",
+        "url": "https://sikumbang.tapera.go.id/lokasi-perumahan/CBI0520062021R001",
+        "status": "Lokasi Aktif",
+        "developer": "PT ADHI COMMUTER PROPERTI TBK",
+        "address": "JAWA BARAT, KAB BOGOR, Babakan Madang, Kadumanggu",
+        "website": "https://www.royalsentulpark.com/",
+        "latitude": "-6.543433944444445",
+        "longitude": "106.85379505555555",
+        "number_of_tower": 1,
+        "number_of_floor": 96,
+        "number_of_commercial_unit": 0,
+        "number_of_subsidized_unit": 96,
+        "sold_commercial_unit": 196,
+        "sold_subsidized_unit": 0,
+        "tower_name": [
+            {
+                "tower_name": "Tower ROYAL SENTUL PARK",
+                "detail_lantai": [
+                    {
+                        "floor_name": "Lantai 10",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 11",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 12",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 14",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 15",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 16",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 17",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 18",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 19",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 21",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 22",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 23",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 24",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 25",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 26",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 27",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 28",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 29",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 30",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 31",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 32",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 33",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 34",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 8",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    },
+                    {
+                        "floor_name": "Lantai 9",
+                        "unit_detail": [
+                            {
+                                "unit_name": "Tipe Studio (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 495.000.000",
+                                "floor_area": "22.7",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe STUDIO PLUS (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 621.200.000",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 773.500.000",
+                                "floor_area": "35.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 1 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 730.000.000",
+                                "floor_area": "33.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (B) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.132.500.000",
+                                "floor_area": "52",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (A) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.089.000.000",
+                                "floor_area": "50",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (BB) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.350.100.000",
+                                "floor_area": "62",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (C) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.023.700.000",
+                                "floor_area": "47",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe 2 BR (CC) (komersil)",
+                                "unit_type": "Komersil",
+                                "price": "Rp 1.230.400.000",
+                                "floor_area": "56.5",
+                                "number_of_bedroom": 2,
+                                "number_of_bathroom": 1
+                            },
+                            {
+                                "unit_name": "Tipe Studio Plus (Subsidi) (subsidi)",
+                                "unit_type": "Subsidi",
+                                "price": "Rp 352.657.658",
+                                "floor_area": "27.5",
+                                "number_of_bedroom": 1,
+                                "number_of_bathroom": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
