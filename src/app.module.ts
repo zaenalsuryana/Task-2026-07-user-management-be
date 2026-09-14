@@ -25,6 +25,7 @@ import { LocationsModule } from './modules/locations/locations.module';
 import { HistoryModule } from './modules/history/history.module';
 import { ComplianceModule } from './modules/compliance/compliance.module';
 import { RdtrModule } from './modules/rdtr/rdtr.module';
+import { SocialMediaModule } from './modules/social-media/social-media.module';
 
 @Module({
   imports: [
@@ -48,6 +49,7 @@ import { RdtrModule } from './modules/rdtr/rdtr.module';
     HistoryModule,
     ComplianceModule,
     RdtrModule,
+    SocialMediaModule,
   ],
   providers: [
     // Global guards

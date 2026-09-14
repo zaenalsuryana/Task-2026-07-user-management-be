@@ -337,20 +337,30 @@ export class AuthService {
       data: { refresh_token: null },
     });
   }
-
   async register(registerDto: RegisterDto): Promise<AuthResponseDto> {
-    const { email, password, first_name, last_name, phone_number, address, birth_date, position_id } = registerDto as any;
+    const { email, password, fullname, phone_number, address, birth_date, position_id } = registerDto as any;
+
+    // Pecah fullname menjadi first_name dan last_name secara otomatis
+    const nameParts = (fullname || '').trim().split(' ');
+    const first_name = nameParts[0] || '';
+    const last_name = nameParts.slice(1).join(' ') || '';
 
     const existingUser = await this.prisma.user.findUnique({
       where: { email },
     });
 
-    if (existingUser) {
-      throw new ConflictException('Email already exists');
+    // Tentukan position_id: jika tidak dikirim dari request, ambil posisi pertama yang ada di database secara otomatis
+    let targetPositionId = position_id;
+    if (!targetPositionId) {
+      const defaultPosition = await this.prisma.position.findFirst();
+      if (!defaultPosition) {
+        throw new ConflictException('Default member position is not configured in the database');
+      }
+      targetPositionId = defaultPosition.id;
     }
 
     const position = await this.prisma.position.findUnique({
-      where: { id: position_id },
+      where: { id: targetPositionId },
       include: {
         position_permissions: {
           include: {
@@ -361,7 +371,7 @@ export class AuthService {
     });
 
     if (!position) {
-      throw new ConflictException('Default member position is not configured in the database');
+      throw new ConflictException('Position not found');
     }
 
     const hashedPassword = await PasswordUtil.hash(password);
@@ -370,7 +380,7 @@ export class AuthService {
       data: {
         email,
         password: hashedPassword,
-        position_id,
+        position_id: targetPositionId,
         profile: {
           create: {
             first_name,
