@@ -26,6 +26,7 @@ import { HistoryModule } from './modules/history/history.module';
 import { ComplianceModule } from './modules/compliance/compliance.module';
 import { RdtrModule } from './modules/rdtr/rdtr.module';
 import { SocialMediaModule } from './modules/social-media/social-media.module';
+import { DocumentModule } from './modules/document/document.module';
 
 @Module({
   imports: [
@@ -50,6 +51,7 @@ import { SocialMediaModule } from './modules/social-media/social-media.module';
     ComplianceModule,
     RdtrModule,
     SocialMediaModule,
+    DocumentModule,
   ],
   providers: [
     // Global guards

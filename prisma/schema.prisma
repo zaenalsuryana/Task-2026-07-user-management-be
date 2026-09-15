@@ -22,6 +22,7 @@ model User {
   updated_at    DateTime  @updatedAt
   deleted_at    DateTime?
   socialMedias  SocialMedia[]
+  documents     Document[]
 
   // Relations
   position_id Int
@@ -235,4 +236,19 @@ model SocialMedia {
   updatedAt DateTime     @updatedAt @map("updated_at")
 
   @@map("social_medias")
+}
+
+model Document {
+  id         Int         @id @default(autoincrement())
+  user_id    Int
+  file_name  String      // Nama file asssli
+  file_path  String      // Path penyimpanan di server
+  mime_type  String      // Tipe file (image/pdf)
+  size       Int         // Ukuran file dalam bytes
+  created_at DateTime    @default(now())
+  updated_at DateTime    @updatedAt
+
+  user       User        @relation(fields: [user_id], references: [id], onDelete: Cascade)
+
+  @@map("documents")
 }
