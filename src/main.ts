@@ -57,8 +57,8 @@ async function bootstrap() {
   // Swagger Documentation
   if (swaggerEnabled) {
     const config = new DocumentBuilder()
-      .setTitle('project-2026-7-insite-be API')
-      .setDescription('project-2026-7-insite-be Backend API Documentation')
+      .setTitle('Task-2026-7-user-management-be API')
+      .setDescription('Task-2026-7-user-management-be Backend API Documentation')
       .setVersion('1.0')
       .addTag('Authentication', 'Authentication endpoints')
       .addTag('Users', 'User management endpoints')
