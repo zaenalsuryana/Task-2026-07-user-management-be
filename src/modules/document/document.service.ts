@@ -15,6 +15,7 @@ export class DocumentService {
     },
   });
   private bucketName = process.env.R2_BUCKET_NAME;
+  private publicUrl = process.env.R2_PUBLIC_URL;
 
   constructor(private prisma: PrismaService) {}
 
@@ -32,7 +33,8 @@ export class DocumentService {
     // Kirim file ke Cloudflare R2
     await this.s3Client.send(new PutObjectCommand(uploadParams));
 
-    const fileUrl = `https://${this.bucketName}.${process.env.CLOUDFLARE_ACCOUNT_ID}.r2.cloudflarestorage.com/${fileName}`;
+    // Menggunakan R2_PUBLIC_URL agar bisa langsung diakses publik via browser
+    const fileUrl = `${this.publicUrl}/${fileName}`;
 
     // Simpan metadata ke database
     const document = await this.prisma.document.create({
@@ -64,8 +66,8 @@ export class DocumentService {
       throw new ForbiddenException('Anda tidak berhak menghapus dokumen ini');
     }
 
-    // Ekstrak S3 Key dari URL file_path
-    const urlParts = document.file_path.split('.r2.cloudflarestorage.com/');
+    // Ekstrak S3 Key dari URL file_path menggunakan R2_PUBLIC_URL
+    const urlParts = document.file_path.split(`${this.publicUrl}/`);
     if (urlParts.length > 1) {
       const s3Key = urlParts[1];
       try {
