@@ -3,8 +3,8 @@ import * as bcrypt from 'bcrypt';
 
 export const seedUsers = async (
   prisma: PrismaClient,
-  adminPositionId: string,
-  memberPositionId: string,
+  adminPositionId: number,
+  memberPositionId: number,
 ) => {
   console.log('👥 Seeding users...');
 
@@ -17,9 +17,6 @@ export const seedUsers = async (
     create: {
       email: 'admin@kulidigital.com',
       password: hashedPassword,
-      fullname: 'Admin Kuli Digital',
-      company_name: 'Kuli Digital',
-      ip_address: '127.0.0.1',
       position_id: adminPositionId,
       is_active: true,
     },
@@ -31,9 +28,6 @@ export const seedUsers = async (
     create: {
       email: 'member@kulidigital.com',
       password: hashedPassword,
-      fullname: 'Member User',
-      company_name: 'User Corp',
-      ip_address: '127.0.0.2',
       position_id: memberPositionId,
       is_active: true,
     },

@@ -18,11 +18,12 @@ const prisma = new PrismaClient({ adapter });
 async function main() {
   console.log('🌱 Starting database seeding...\n');
 
-  // Clear existing data (Removed to avoid issues, relying on migrate reset instead)
-
   // Run seeders
   const { adminPosition, memberPosition } = await seedPositions(prisma);
+  
+  // Kirim sebagai angka (number) sesuai tipe ID asli database
   await seedPermissions(prisma, adminPosition.id, memberPosition.id);
+  
   const { adminUser, memberUser, defaultPassword } = await seedUsers(
     prisma,
     adminPosition.id,
@@ -31,6 +32,7 @@ async function main() {
   
   await seedLocations(prisma);
   await seedRdtr(prisma);
+  
   await seedAnalysis(prisma, adminUser.id, memberUser.id);
 
   // Summary

@@ -2,8 +2,8 @@ import { PrismaClient } from '@prisma/client';
 
 export const seedPermissions = async (
   prisma: PrismaClient,
-  adminPositionId: string,
-  memberPositionId: string,
+  adminPositionId: number,
+  memberPositionId: number,
 ) => {
   console.log('🔐 Seeding permissions...');
 

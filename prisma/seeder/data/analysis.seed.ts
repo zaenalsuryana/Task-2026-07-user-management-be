@@ -2,8 +2,8 @@ import { PrismaClient } from '@prisma/client';
 
 export const seedAnalysis = async (
   prisma: PrismaClient,
-  adminUserId: string,
-  memberUserId: string,
+  adminUserId: number,
+  memberUserId: number,
 ) => {
   console.log('📈 Seeding analysis...');
 
